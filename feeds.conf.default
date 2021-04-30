@@ -4,7 +4,7 @@ src-git routing https://git.openwrt.org/feed/routing.git
 src-git telephony https://git.openwrt.org/feed/telephony.git
 src-git freifunk https://github.com/freifunk/openwrt-packages.git
 src-git passwall https://github.com/tnr19662/Passwall-be0c476.git
-src-git mtwifi https://github.com/hanwckf/openwrt-mt7615.git
+src-git mtwifi https://github.com/MeIsReallyBa/k2p-openwrt-mt7615_5.0.2.0.git
 #src-git mtwifi2 https://github.com/MeIsReallyBa/Redmi2100-WIFI-ProprietaryDriver-linux5.4
 #src-git video https://github.com/openwrt/video.git
 #src-git targets https://github.com/openwrt/targets.git
